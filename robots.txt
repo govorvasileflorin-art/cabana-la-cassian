@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cabana-la-cassian.vercel.app/sitemap.xml
